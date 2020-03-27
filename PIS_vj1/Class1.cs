@@ -6,5 +6,8 @@ namespace PIS_vj1
 {
     class Class1
     {
+
+        static void print() { }
+
     }
 }
