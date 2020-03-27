@@ -6,7 +6,7 @@ namespace PIS_vj1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World2!");
+            Console.WriteLine("Hello World3!");
         }
     }
 }
